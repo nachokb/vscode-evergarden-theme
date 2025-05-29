@@ -3,7 +3,7 @@
   "displayName": "Evergarden Theme",
   "description": "A subdued, warm, nature-inspired dark theme with soft greens and earthy tones. Ported from [Chroma's Evergarden](https://github.com/alecthomas/chroma/commit/6f1db96235a34cc677c7ac09370fde2993030e6f) automatically via Claude AI Agent.",
   "version": "1.0.0",
-  "publisher": "kabe",
+  "publisher": "icarrera",
   "engines": {
     "vscode": "^1.74.0"
   },
