@@ -5,4 +5,10 @@ automatically via Claude AI Agent.
 
 Originally [comfysage](https://github.com/everviolet/nvim).
 
-![Screenshot](docs/vscode.png)
+## Editor Screenshot
+
+![Editor](docs/vscode.png)
+
+## Terminal Colors Screenshot
+
+![Terminal Colors](docs/terminal-colors.png)
