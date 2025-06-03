@@ -2,6 +2,8 @@
 
 ## [Unreleased]
 
+## [1.2.0] 2025-06-02
+
 * doc: add screenshto to README;
 * doc: add icon to extension;
 * doc: add attribution to Comfysage;
